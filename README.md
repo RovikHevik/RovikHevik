@@ -1,19 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/RovikHevik" target="_blank">Evgeniy</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Ukraine 🇺🇦</h3>
+<div width="100%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RovikHevik&show_icons=true&theme=merko&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RovikHevik&layout=compact&theme=merko&count_private=true" />
+</div>
 
-<!--
-**RovikHevik/RovikHevik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RovikHevik&show_icons=true&theme=merko&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RovikHevik&layout=compact&theme=merko&count_private=true" />
