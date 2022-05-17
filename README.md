@@ -5,3 +5,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RovikHevik&show_icons=true&theme=merko&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RovikHevik&layout=compact&theme=merko&count_private=true" />
 </div>
+
+<table>
+  <tbody><tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=RovikHevik&show_icons=true&theme=merko&count_private=true" style="max-width: 100%;" width="550px" align="left"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RovikHevik&layout=compact&theme=merko&count_private=true" style="max-width: 100%;" width="550px" align="left"></a></td>
+  </tr>   
+</tbody></table>
