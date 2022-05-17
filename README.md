@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/RovikHevik" target="_blank">Evgeniy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Ukraine 🇺🇦</h3>
+<h3 align="center">Junior C# developer from Ukraine 🇺🇦</h3>
 
 <table>
   <tbody>
